@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">Infosec Enthusiast and Dabbler in Development</h3>
 
-- 🔭 I’m currently working on **OSCP / DIT in Cybersecurity**
+- 🔭 I’m currently working on **Any / All things Cyber**
 
 
 <h3 align="left">Languages and Tools:</h3>
